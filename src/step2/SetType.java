@@ -1,3 +1,7 @@
+/*
+ * Majda EL MAROUNI
+ * Imane Es-sebbar
+ */
 package step2;
 
 public class SetType implements Comparable<SetType>{
